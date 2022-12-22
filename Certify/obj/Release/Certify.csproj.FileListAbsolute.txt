@@ -1,0 +1,7 @@
+C:\Users\hjorri\Source\Repos\Certify\Certify\bin\Release\Certify.exe.config
+C:\Users\hjorri\Source\Repos\Certify\Certify\bin\Release\Certify.exe
+C:\Users\hjorri\Source\Repos\Certify\Certify\bin\Release\Interop.CERTENROLLLib.dll
+C:\Users\hjorri\Source\Repos\Certify\Certify\obj\Release\Certify.csproj.AssemblyReference.cache
+C:\Users\hjorri\Source\Repos\Certify\Certify\obj\Release\Certify.csproj.CoreCompileInputs.cache
+C:\Users\hjorri\Source\Repos\Certify\Certify\obj\Release\Certify.csproj.CopyComplete
+C:\Users\hjorri\Source\Repos\Certify\Certify\obj\Release\Certify.exe
